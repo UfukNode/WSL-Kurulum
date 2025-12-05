@@ -1,3 +1,5 @@
+![Gvqz53CWwAAWtFz](https://github.com/user-attachments/assets/c0fe3347-2f64-4d8a-97b5-de0e09436c36)
+
 # Windows’ta WSL + Ubuntu Kurulumu
 
 Kendi bilgisayarınızda (ör. gensyn, boundless vb.) node çalıştırmak için WSL üzerinde **Ubuntu 22.04** kurulum rehberi.
