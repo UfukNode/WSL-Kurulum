@@ -14,6 +14,9 @@ PowerShell’i **Yönetici** olarak aç ve WSL’yi kur:
 wsl --install
 ```
 
+<img width="738" height="130" alt="image" src="https://github.com/user-attachments/assets/449c4ea2-3e45-422d-ba02-d5dc5bb2d1a4" />
+
+
 * Yeniden başlat isterse bilgisayarı yeniden başlat.
 * İlk açılışta Linux kullanıcı adı ve şifre oluştur.
 
