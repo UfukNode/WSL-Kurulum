@@ -14,7 +14,7 @@ PowerShell’i **Yönetici** olarak aç ve WSL’yi kur:
 wsl --install
 ```
 
-<img width="738" height="130" alt="image" src="https://github.com/user-attachments/assets/449c4ea2-3e45-422d-ba02-d5dc5bb2d1a4" />
+<img width="822" height="220" alt="image" src="https://github.com/user-attachments/assets/c8fff8ba-c2fd-427e-bad3-de70bc53f42c" />
 
 
 * Yeniden başlat isterse bilgisayarı yeniden başlat.
@@ -25,8 +25,10 @@ wsl --install
 ## 2- Ubuntu 22.04 Yükleme:
 
 * Microsoft Store’da **Ubuntu 22.04** ara → **Install**
-* Uygulamayı aç ve kurulumun tamamlanmasını bekle
-* İstendiğinde kullanıcı adı ve şifre oluştur
+* Uygulamayı aç ve kurulumun tamamlanmasını bekle,
+* İstendiğinde kullanıcı adı ve şifre oluştur.
+
+<img width="1684" height="788" alt="image" src="https://github.com/user-attachments/assets/05f4eee8-5964-44d6-88d5-e36343cc1551" />
 
 ---
 
@@ -37,6 +39,8 @@ Node kurulumlarında root yetkisi gerekebilir:
 ```bash
 sudo -i
 ```
+
+<img width="423" height="69" alt="image" src="https://github.com/user-attachments/assets/f2e8ae81-b604-4513-b16b-8db8bf03380a" />
 
 ---
 
